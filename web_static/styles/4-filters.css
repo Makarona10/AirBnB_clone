@@ -8,3 +8,6 @@
     align-items: center;
     position: relative;
 }
+.filters h1{
+    display: none;
+}
